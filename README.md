@@ -1,2 +1,3 @@
-# CRA로 배워보는 리액트 테스팅 기초
+# TDD 연습 - todo list
+
 - 테스트 실행: npm test
